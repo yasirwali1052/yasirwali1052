@@ -2,8 +2,8 @@
 <h3 align="center">AI | ML | GenAI Enthusiast • LangChain • LLMs • Cloud • Python</h3>
 
 <p align="center">
-  🚀 Final Year AI Student passionate about building intelligent GenAI apps <br>
-  💡 Exploring LangChain • RAG • LLMs • Vision Transformers • Hugging Face Ecosystem
+   Final Year AI Student passionate about building intelligent GenAI apps <br>
+   Exploring LangChain • RAG • LLMs • Vision Transformers • Hugging Face Ecosystem
 </p>
 
 ---
