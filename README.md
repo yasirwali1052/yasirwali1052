@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Yasir Wali</h1>
-<h3 align="center">AI | ML | GenAI Enthusiast • LangChain • LLMs • Cloud • Python</h3>
+<h1 align="center">👋 Hi, I'm Yasir Wali</h1>
+<h3 align="center">AI | ML | GenAI • LLMs • LangChain • LangGraph • Cloud • Python</h3>
 
 <p align="center">
-   Final Year AI Student passionate about building intelligent GenAI apps <br>
-   Exploring LangChain • RAG • LLMs • Vision Transformers • Hugging Face Ecosystem
+   🎓 Final Year AI Student passionate about building intelligent systems with LLMs & Agentic AI. <br>
+    LangChain • LangGraph • RAG • Vision Transformers • Hugging Face Ecosystem
 </p>
 
 ---
@@ -27,15 +27,15 @@
 
 ---
 
-### 🧠 My Interests
+### 💡 Interests
 
-- 🤖 AI, ML & Deep Learning
-- 🔍 LLMs, GenAI & RAG pipelines
-- 🧠 LangChain, Hugging Face, Transformers
-- 🧪 Fine-tuning & Prompt Engineering
-- 🖼️ CV with ViT, CNN, GANs, Diffusion
-- 🧰 Python APIs with FastAPI & Flask
-- ⚙️ MLOps (Docker, GitHub Actions)
+- 🤖 AI, Machine Learning & Deep Learning
+- 🧠 LLMs, GenAI, Retrieval-Augmented Generation (RAG)
+- 🔄 Agentic AI using LangChain + LangGraph
+- 🧪 Prompt Engineering & Fine-tuning on Hugging Face
+- 🖼️ Vision Transformers, CNNs, GANs & Diffusion Models
+- ⚙️ MLOps (Docker, CI/CD, GitHub Actions)
+- 🌐 API Development with FastAPI & Flask
 
 ---
 
@@ -48,18 +48,20 @@
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
 
-#### 🔗 GenAI / LLMs / RAG
+#### 🤖 GenAI / LLMs / RAG / Agents
 ![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=polywork&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1F1F1F?style=for-the-badge&logo=starship&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white)
-![Grok](https://img.shields.io/badge/Grok-005eff?style=for-the-badge&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq-F05033?style=for-the-badge&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white)
 
-#### ☁️ Cloud & Tools
+#### ☁️ Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+#### 🧰 Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -69,7 +71,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=shadow_blue" width="48%" />
