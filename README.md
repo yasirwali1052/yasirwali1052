@@ -84,6 +84,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=yasirwali1052&icon=2&color=5" />
-</p>
