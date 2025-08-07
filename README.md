@@ -3,7 +3,7 @@
 
 <p align="center">
    🎓 Final Year AI Student passionate about building intelligent systems with LLMs & Agentic AI. <br>
-   🔍 Exploring the frontiers of LangChain • LangGraph • RAG • Vision Transformers • Hugging Face Ecosystem
+    LangChain • LangGraph • RAG • Vision Transformers • Hugging Face Ecosystem
 </p>
 
 ---
@@ -74,20 +74,10 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=shadow_blue" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=shadow_blue" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&langs_count=10&layout=compact&theme=tokyonight&hide_border=false" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirwali1052&theme=tokyonight&column=7&no-frame=true" />
-</p>
-
----
-
-<p align="center">
-  🚀 Always learning. Always building. Let's connect and create something impactful together!
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=shadow_blue" width="40%" />
 </p>
