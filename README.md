@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hi, I'm Yasir Wali</h1>
 <h3 align="center">AI | ML | GenAI • LLMs • LangChain • LangGraph • Cloud • Python</h3>
-
 <p align="center">
    🎓 Final Year AI Student passionate about building intelligent systems with LLMs & Agentic AI. <br>
     LangChain • LangGraph • RAG • Vision Transformers • Hugging Face Ecosystem
@@ -9,7 +8,6 @@
 ---
 
 ### 🌐 Connect With Me
-
 <p align="center">
   <a href="https://linkedin.com/in/waliyasir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -27,57 +25,80 @@
 
 ---
 
-### 💡 Interests
-
-- 🤖 AI, Machine Learning & Deep Learning
-- 🧠 LLMs, GenAI, Retrieval-Augmented Generation (RAG)
-- 🔄 Agentic AI using LangChain + LangGraph
-- 🧪 Prompt Engineering & Fine-tuning on Hugging Face
-- 🖼️ Vision Transformers, CNNs, GANs & Diffusion Models
-- ⚙️ MLOps (Docker, CI/CD, GitHub Actions)
-- 🌐 API Development with FastAPI & Flask
+### 💡 What I'm Passionate About
+- 🤖 **Artificial Intelligence & Machine Learning** - Building intelligent systems that solve real-world problems
+- 🧠 **Large Language Models & GenAI** - Exploring the frontiers of conversational AI and text generation
+- 🔄 **Agentic AI Systems** - Creating autonomous agents using LangChain & LangGraph
+- 🎯 **RAG & Prompt Engineering** - Optimizing retrieval-augmented generation for better AI responses
+- 🖼️ **Computer Vision** - Working with Vision Transformers, CNNs, and generative models
+- ⚙️ **MLOps & Deployment** - Streamlining ML workflows from development to production
 
 ---
 
-### 💻 Tech Stack
+<div align="center">
 
-#### ⚙️ AI / ML / DL
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+## 🛠️ Tech Arsenal
 
-#### 🤖 GenAI / LLMs / RAG / Agents
-![LangChain](https://img.shields.io/badge/LangChain-00BFA6?style=for-the-badge&logo=polywork&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1F1F1F?style=for-the-badge&logo=starship&logoColor=white)
+### **Core AI/ML Stack**
+[![My AI Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
+
+### **GenAI & LLM Ecosystem**
+![LangChain](https://img.shields.io/badge/🦜_LangChain-00D9FF?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F05033?style=for-the-badge&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/DeepSeek-A020F0?style=for-the-badge&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21F?style=for-the-badge&logoColor=black)
 
-#### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### **Development & Deployment**
+[![Dev Tools](https://skillicons.dev/icons?i=docker,azure,github,vscode&theme=dark)](https://skillicons.dev)
 
-#### 🧰 Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### **Data & Backend**
+[![Data Stack](https://skillicons.dev/icons?i=postgres,fastapi,flask,git&theme=dark)](https://skillicons.dev)
 
-#### 🗃️ Databases & Querying
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects & Contributions
+
+<div align="center">
+
+**🔥 What I'm Building:**
+- 🤖 **Intelligent RAG Systems** - Advanced document Q&A with multi-modal capabilities
+- 🧠 **LangGraph Agents** - Multi-step reasoning agents for complex problem solving  
+- 🎨 **AI-Powered Applications** - End-to-end ML solutions with modern UX
+- 📊 **MLOps Pipelines** - Automated model training and deployment workflows
+
+</div>
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=shadow_blue" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=shadow_blue" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=shadow_blue" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasirwali1052&theme=tokyo-night&hide_border=true&area=true" width="53%" />
 </p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yasirwali1052&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+<div align="center">
+
+### 💭 Current Focus
+
+*"Building the bridge between cutting-edge AI research and practical applications that make a difference."*
+
+![Profile Views](https://komarev.com/ghpvc/?username=yasirwali1052&style=for-the-badge&color=brightgreen)
+
+</div>
