@@ -38,10 +38,23 @@
 [![My AI Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
 ### **GenAI & LLM Ecosystem**
-![LangChain](https://img.shields.io/badge/🦜_LangChain-00D9FF?style=for-the-badge&logoColor=white)
-![LangGraph](https://img.shields.io/badge/🕸️_LangGraph-FF6B6B?style=for-the-badge&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Hugging_Face-FFD21F?style=for-the-badge&logoColor=black)
+<p align="center">
+  <a href="https://langchain.com" target="_blank">
+    <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://openai.com" target="_blank">
+    <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://huggingface.co" target="_blank">
+    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.png" alt="Hugging Face" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://ollama.ai" target="_blank">
+    <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" height="40"/>
+  </a>
+</p>
 
 ### **Development & Deployment**
 [![Dev Tools](https://skillicons.dev/icons?i=docker,azure,github,vscode&theme=dark)](https://skillicons.dev)
