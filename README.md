@@ -81,28 +81,25 @@ Building robust pipelines from research to production-ready AI solutions.
 
 ### **🐍 Core AI/ML Foundation**
 <p align="center">
-[![My AI Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 ### **🤖 GenAI & LLM Ecosystem**
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="48" height="48"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="48" height="48"/>
+  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/svg/brand/wordmark.svg" alt="LangChain" width="80" height="48"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Hugging Face" width="120" height="48"/>
+  <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="48" height="48"/>
 </p>
 
 ### **☁️ Cloud & DevOps Arsenal**
 <p align="center">
-[![Cloud & DevOps](https://skillicons.dev/icons?i=azure,docker,github,githubactions)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=azure,docker,github,git" />
 </p>
 
 ### **🔧 Backend & Data Engineering**
 <p align="center">
-[![Backend Skills](https://skillicons.dev/icons?i=fastapi,flask,postgres,git)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
 </p>
 
 ---
