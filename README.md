@@ -2,7 +2,7 @@
 
 # 👋 Hello World, I'm **Yasir Wali**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=AI+%7C+ML+%7C+GenAI+Engineer;LLMs+%E2%80%A2+LangChain+%E2%80%A2+RAG+Specialist;Building+the+Future+with+Intelligence" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=AI+%7C+ML+%7C+GenAI+Engineer;LLMs+%E2%80%A2+LangChain+%E2%80%A2+RAG+Specialist;Building+the+Future+with+Intelligence" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -86,9 +86,12 @@ Building robust pipelines from research to production-ready AI solutions.
 
 ### **🤖 GenAI & LLM Ecosystem**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="OpenAI" width="48" height="48"/>
-  <img src="https://github.com/langchain-ai/langchain/blob/master/docs/static/svg/brand/wordmark.svg" alt="LangChain" width="80" height="48"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo-with-title.png" alt="Hugging Face" width="120" height="48"/>
+  <img src="https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png" alt="OpenAI" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=400&v=4" alt="LangChain" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/huggingface.png" alt="Hugging Face" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://ollama.com/public/ollama.png" alt="Ollama" width="48" height="48"/>
 </p>
 
