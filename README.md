@@ -38,10 +38,15 @@
 [![My AI Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark)](https://skillicons.dev)
 
 ### **GenAI & LLM Ecosystem**
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21F?style=for-the-badge&logoColor=black)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="48" height="48"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7" alt="Ollama" width="48" height="48"/>
+</p>
 
 ### **Development & Deployment**
 [![Dev Tools](https://skillicons.dev/icons?i=docker,azure,github,vscode&theme=dark)](https://skillicons.dev)
