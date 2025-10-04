@@ -40,8 +40,6 @@ Final year AI student passionate about building production-ready machine learnin
   &nbsp;&nbsp;
   <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="120" height="48"/>
   &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/wordmark_light.svg" alt="LangGraph" width="120" height="48"/>
-  &nbsp;&nbsp;
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
 </p>
 
