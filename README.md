@@ -5,9 +5,10 @@
 ### AI Engineer | MLOps | Machine Learning
 *Building intelligent systems and scalable ML pipelines*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waliyasir)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirwali301302@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YasirWali18)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/waliyasir)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yasirwali301302@gmail.com)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/YasirWali18)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/waliyasir_yw)
 
 </div>
 
@@ -21,6 +22,7 @@ Final year AI student passionate about building production-ready machine learnin
 - 🔧 MLOps & Model Deployment
 - 📊 Machine Learning & Deep Learning
 - 🖼️ Computer Vision
+- 🤖 GenAI & LLM Applications
 - 🚀 Building Scalable AI Systems
 
 ---
@@ -30,6 +32,17 @@ Final year AI student passionate about building production-ready machine learnin
 **Machine Learning & AI**
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+**GenAI & LLM Tools**
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="48" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="120" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/langchain-ai/langgraph/main/docs/static/wordmark_light.svg" alt="LangGraph" width="120" height="48"/>
+  &nbsp;&nbsp;
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
 </p>
 
 **MLOps & Cloud**
@@ -42,10 +55,10 @@ Final year AI student passionate about building production-ready machine learnin
 <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
 </p>
 
-**AI Frameworks**
+**Additional Frameworks**
 - Scikit-learn, XGBoost, LightGBM
-- Hugging Face Transformers
-- LangChain for AI applications
+- LlamaIndex, Ollama
+- RAG Systems & Vector Databases
 
 ---
 
@@ -53,6 +66,8 @@ Final year AI student passionate about building production-ready machine learnin
 
 - Building end-to-end ML pipelines
 - Model deployment and monitoring
+- LangChain & LangGraph agentic workflows
+- RAG applications with GenAI
 - Computer vision applications
 - Efficient model optimization
 
