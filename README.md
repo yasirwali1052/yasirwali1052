@@ -3,6 +3,7 @@
 # Hi, I'm Yasir Wali 👋
 
 ### AI Engineer | MLOps | Machine Learning
+
 *Building intelligent systems and scalable ML pipelines*
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/waliyasir)
@@ -30,37 +31,31 @@ Final year AI student passionate about building production-ready machine learnin
 ## 🛠️ Tech Stack
 
 **Machine Learning & AI**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 **GenAI & LLM Tools**
+
 <p>
-  <a href="https://openai.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="48" height="48"/>
-  </a>
+  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="48" height="48"/>
   &nbsp;&nbsp;
-  <a href="https://www.langchain.com/">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/source/img/wordmark.svg" alt="LangChain" width="120" height="48"/>
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" height="48"/>
   &nbsp;&nbsp;
-  <a href="https://huggingface.co/">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="48" height="48"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://ollama.com/">
-    <img src="https://ollama.com/images/ollama_logo.svg" alt="Ollama" width="48" height="48"/>
-  </a>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
 </p>
 
 **MLOps & Cloud**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
 </p>
 
 **Development Tools**
+
 <p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
 </p>
 
 **Additional Frameworks**
@@ -84,12 +79,13 @@ Final year AI student passionate about building production-ready machine learnin
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=true" width="49%" />
-</div>
+  
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
 </div>
 
 ---
