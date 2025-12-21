@@ -36,12 +36,11 @@ Final year AI student passionate about building production-ready machine learnin
 
 **GenAI & LLM Tools**
 <p>
-  <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="OpenAI" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" height="48"/>
   &nbsp;&nbsp;
-  <img src="https://python.langchain.com/img/brand/wordmark.png" alt="LangChain" width="120" height="48"/>
+  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="48" height="48"/>
   &nbsp;&nbsp;
-  
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="Hugging Face" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="48" height="48"/>
 </p>
 
 **MLOps & Cloud**
