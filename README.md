@@ -31,26 +31,36 @@ Final year AI student passionate about building production-ready machine learnin
 
 **Machine Learning & AI**
 <p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
 **GenAI & LLM Tools**
 <p>
-  <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="48" height="48"/>
+  <a href="https://openai.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/OpenAI_Logo.svg" alt="OpenAI" width="48" height="48"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=langchain" alt="LangChain" width="48" height="48"/>
+  <a href="https://www.langchain.com/">
+    <img src="https://raw.githubusercontent.com/hwchase17/langchain/main/docs/source/img/wordmark.svg" alt="LangChain" width="120" height="48"/>
+  </a>
   &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="48" height="48"/>
+  <a href="https://huggingface.co/">
+    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face" width="48" height="48"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://ollama.com/">
+    <img src="https://ollama.com/images/ollama_logo.svg" alt="Ollama" width="48" height="48"/>
+  </a>
 </p>
 
 **MLOps & Cloud**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,azure,git,github" />
 </p>
 
 **Development Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,vscode" />
 </p>
 
 **Additional Frameworks**
