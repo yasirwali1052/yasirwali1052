@@ -17,7 +17,8 @@
 
 ## 🎯 About Me
 
-Final year AI student passionate about building production-ready machine learning systems. I focus on the complete ML lifecycle—from model development to deployment and monitoring.
+Skilled AI/ML Engineer with hands-on experience in building smart and scalable AI systems. I work with Machine Learning, Deep Learning, and Generative AI, focusing on real-world, production-ready solutions.
+I specialize in LLMs, RAG, and intelligent agents using LangChain and LangGraph, along with strong MLOps skills such as MLflow, Docker, CI/CD, and FastAPI for deployment and automation.
 
 **Core Areas:**
 - 🔧 MLOps & Model Deployment
