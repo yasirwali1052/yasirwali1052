@@ -6,10 +6,6 @@
 
 *Building intelligent systems and scalable ML pipelines*
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/waliyasir)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:yasirwali301302@gmail.com)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/YasirWali18)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/waliyasir_yw)
 
 </div>
 
