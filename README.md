@@ -2,7 +2,7 @@
 
 # Hi, I'm Yasir Wali 👋
 
-### AI Engineer | MLOps | Machine Learning
+### Full Stack AI/ML Engineer | MLOps Pipelines
 
 *Building intelligent systems and scalable ML pipelines*
 
