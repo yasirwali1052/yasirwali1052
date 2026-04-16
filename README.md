@@ -1,112 +1,120 @@
 <div align="center">
-  
-# 🚀 Yasir Wali
-### Full Stack AI/ML Engineer | MLOps Pipelines| Generative AI Specialist
-<sub>Crafting intelligent systems • Scaling ML pipelines • Building the future with AI</sub>
 
----
+<!-- Header with Gradient Effect -->
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=Hi%2C+I'm+Yasir+Wali+%F0%9F%9A%80;Full+Stack+AI%2FML+Engineer;Building+Intelligent+Systems" alt="Typing animation" />
 
 </div>
 
-## 💡 About Me
+---
 
-I'm an **AI/ML engineer** passionate about building production-grade intelligent systems. I specialize in **LLMs, RAG architectures, and agentic AI** with deep expertise in **MLOps, deployment, and scaling**. My focus is on translating cutting-edge AI research into real-world applications that create measurable impact.
+<div align="center">
 
-```
-┌─────────────────────────────────────────────┐
-│  Specialization: GenAI → Production → Scale  │
-└─────────────────────────────────────────────┘
-```
+### 🧠 **AI/ML Engineer** → **MLOps** → **Generative AI**
+
+I build **production-ready AI systems** that scale. Specializing in LLMs, RAG, and intelligent agents with enterprise-grade MLOps.
+
+[🔗 Connect](https://linkedin.com/in/yasirwali) • [💻 Projects](#) • [📧 Email](#)
+
+</div>
 
 ---
 
-## 🎯 Core Expertise
-
-```
-🔬 AI/ML                  🏗️ MLOps & Infrastructure    🧠 Advanced Domains
-├─ LLMs & Transformers   ├─ MLflow & Model Tracking   ├─ Agentic AI (LangGraph)
-├─ RAG Systems           ├─ Docker & Containerization ├─ Computer Vision
-├─ Generative AI         ├─ CI/CD Pipelines           ├─ Vector Databases
-└─ Deep Learning         └─ FastAPI & Deployment     └─ Fine-tuning & Optimization
-```
-
----
-
-## ⚡ Tech Stack
+## 🎯 What I Do
 
 <table>
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=python" width="48" height="48"/><br/><sub>Python</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48"/><br/><sub>TensorFlow</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48"/><br/><sub>PyTorch</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48"/><br/><sub>OpenCV</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48"/><br/><sub>FastAPI</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48"/><br/><sub>Docker</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=azure" width="48" height="48"/><br/><sub>Azure</sub>
-</td>
-<td align="center" width="120">
-  <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48"/><br/><sub>PostgreSQL</sub>
-</td>
-</tr>
+  <tr>
+    <td width="33%">
+      <h3>🤖 Generative AI</h3>
+      <p>LLMs • RAG Systems<br>LangChain • LangGraph<br>Intelligent Agents</p>
+    </td>
+    <td width="33%">
+      <h3>⚙️ MLOps</h3>
+      <p>Model Pipelines<br>Docker • CI/CD<br>Production Deployment</p>
+    </td>
+    <td width="33%">
+      <h3>🖼️ Deep Learning</h3>
+      <p>Computer Vision<br>Neural Networks<br>Model Optimization</p>
+    </td>
+  </tr>
 </table>
 
-**Specialized Tools:** LangChain • LangGraph • LlamaIndex • Ollama • OpenAI • Hugging Face • MLflow • scikit-learn • XGBoost
-
 ---
 
-## 🚀 What I Build
-
-| 🤖 Agentic Systems | 📚 RAG Pipelines | 🎯 Model Optimization |
-|:---:|:---:|:---:|
-| Intelligent agents with LangGraph | End-to-end retrieval systems | Fine-tuning & quantization |
-| Multi-tool orchestration | Vector DB integration | Production inference |
-| Autonomous workflows | Semantic search | Hardware acceleration |
-
----
-
-## 📊 GitHub Analytics
+## 🛠️ **Tech Stack**
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=500)
+**Core AI/ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=true&card_width=500)
+**Generative AI**  
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasirwali1052&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&card_width=500)
+**MLOps & Deployment**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Data & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 ---
 
-## 💫 Current Journey
+## 🚀 **Featured Areas**
 
-- 🔨 Building production ML systems with MLOps best practices
-- 🧠 Developing agentic AI applications using LangGraph
-- 📈 Scaling inference pipelines for enterprise deployment
-- 🔍 Implementing advanced RAG with semantic search
-- ⚙️ Model optimization for edge & cloud environments
+```
+LLMs & Transformers      ████████████░░░ 90%
+RAG & Vector Search      ████████████░░░ 88%
+MLOps & Deployment       ███████████░░░░ 85%
+Computer Vision          ██████████░░░░░ 80%
+Deep Learning            ███████████░░░░ 85%
+Production Systems       ████████████░░░ 90%
+```
 
 ---
 
+## 📊 **GitHub Stats**
+
 <div align="center">
 
-### Let's build something remarkable together 🚀
+![Yasir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yasirwali1052&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&text_color=c9d1d9&hide=stars)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=yasirwali1052&style=flat-square&color=1f6feb&label=Profile+Views)](https://github.com/yasirwali1052)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasirwali1052&theme=tokyonight&hide_border=true&background=0d1117)
+
+</div>
+
+---
+
+## 💫 **Currently Building**
+
+```
+├─ 🤖 Agentic AI workflows with multi-tool orchestration
+├─ 📚 Advanced RAG systems with semantic search
+├─ 🔄 End-to-end ML pipelines with MLflow
+├─ 🚀 Optimized inference engines for scale
+└─ 💾 Vector DB integrations for production
+```
+
+---
+
+## 📫 **Let's Connect**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+
+---
+
+**Building intelligent systems that matter** ✨
 
 </div>
