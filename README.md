@@ -12,9 +12,6 @@
 ### 🧠 **AI/ML Engineer** → **MLOps** → **Generative AI**
 
 I build **production-ready AI systems** that scale. Specializing in LLMs, RAG, and intelligent agents with enterprise-grade MLOps.
-
-[🔗 Connect](https://linkedin.com/in/yasirwali) • [💻 Projects](#) • [📧 Email](#)
-
 </div>
 
 ---
@@ -67,18 +64,6 @@ I build **production-ready AI systems** that scale. Specializing in LLMs, RAG, a
 </div>
 
 ---
-
-## 🚀 **Featured Areas**
-
-```
-LLMs & Transformers      ████████████░░░ 90%
-RAG & Vector Search      ████████████░░░ 88%
-MLOps & Deployment       ███████████░░░░ 85%
-Computer Vision          ██████████░░░░░ 80%
-Deep Learning            ███████████░░░░ 85%
-Production Systems       ████████████░░░ 90%
-```
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -105,15 +90,6 @@ Production Systems       ████████████░░░ 90%
 
 ---
 
-## 📫 **Let's Connect**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-
----
 
 **Building intelligent systems that matter** ✨
 
