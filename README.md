@@ -1,10 +1,8 @@
 <div align="center">
   
 # 🚀 Yasir Wali
-### Full Stack AI/ML Engineer | MLOps Architect | Generative AI Specialist
+### Full Stack AI/ML Engineer | MLOps Pipelines| Generative AI Specialist
 <sub>Crafting intelligent systems • Scaling ML pipelines • Building the future with AI</sub>
-
-[🔗 Let's Connect](#)&nbsp;&nbsp;|&nbsp;&nbsp;[💼 Portfolio](#)&nbsp;&nbsp;|&nbsp;&nbsp;[🐙 GitHub](#)
 
 ---
 
